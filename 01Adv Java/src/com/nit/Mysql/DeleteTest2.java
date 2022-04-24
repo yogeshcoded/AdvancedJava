@@ -1,9 +1,4 @@
-//DeleteTest2.java
-/*Application delete records based on student name
- * Author::Team-js
- * Version:1.0
- */
-
+package com.nit.Mysql;
 //Explicitly import
 import java.util.Scanner;
 import java.sql.Connection;
